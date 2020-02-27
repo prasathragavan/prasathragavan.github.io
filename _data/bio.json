@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Guru Prasath Ragavendran",
+    "label": "Independent Consultant",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "rguruprasath@gmail.com",
+    "website": "https://prasathragavan.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "98407-44159",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "600061",
+      "city": "Chennai",
+      "region": "Tamil Nadu",
+      "countryCode": "India"
     },
     "profiles": [
       {
@@ -47,13 +47,11 @@
     },
     {
       "name": "data mining",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -89,8 +87,7 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
