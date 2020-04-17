@@ -6,7 +6,7 @@
     "email": "rguruprasath@gmail.com",
     "website": "https://prasathragavan.github.io",
     "summary": "In addition to good management skills, over 16 years of hands-on experience with various environments. Possess good working knowledge in eCommerce and Online Payments. A Strong believer of ‘Innovation’. A conscientious person who pays attention to details. Passionate and focused on iterating the best ideas to build engaging products. <br><br>\nCurrently pursuing a certificate program in - “​Product Management​” from Duke CE/UpGrad.",
-    "phone": "98407-44159",
+    "phone": "+91 98407 44159",
     "location": {
       "address": "",
       "postalCode": "600061",
@@ -29,53 +29,37 @@
         "network": "twitter",
         "username": "prasath",
         "url": "http://twitter.com/prasath"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Product Management",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "UX/UI Design",
+        "Digital Marketing",
+        "Product Analytics"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": []
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "FinTech",
       "keywords": []
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "User Experience",
+        "SEO",
+        "Omniture Analytics",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "HTML5",
+        "CSS3",
+        "Prototyping",
+        "Mobile Apps",
+        "Agile"
       ]
     }
   ],
@@ -85,7 +69,7 @@
       "area": "Bachelors of Electronic Science (B.E.S)",
       "studyType": "B.E.S",
       "startDate": "2013-09-01",
-      "endDate": "March 2002",
+      "endDate": "Mar 2002",
       "gpa": "",
       "courses": []
     },
@@ -93,37 +77,145 @@
       "institution": "New Prince Matriculation Higher Secondary School",
       "area": "Higher Secondary Education (H.S.C)",
       "studyType": "H.S.C",
-      "endDate": "April 1999",
+      "endDate": "Apr 1999",
+      "courses": []
+    },
+    {
+      "institution": "Bharathi Matriculation Higher Secondary School",
+      "area": "Secondary School Leaving Certificate",
+      "studyType": "S.S.L.C",
+      "endDate": "Mar 1997",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Independent IT specialist/consultant",
+      "position": "Consultant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "June 2016",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Design and development of web applications based on industry best practices",
+        "Collecting feedback from users, prioritizing it based on business impact and consumer impact, and sharing the information with client who can make changes happen",
+        "Coming up with a new idea for a feature and detailing out all the things it would do, then figuring out whether it can be built",
+        "Analyzing data from website to determine common user paths or whether certain business events had a major impact",
+        "Leading a project from start to finish that involves people from different teams coming together to build something"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "BNP Paribas India Solutions Private Limited, Taramani, Chennai",
+      "position": "Project Lead",
+      "website": "https://www.bnpparibas.co.in/",
+      "startDate": "Oct 2014",
+      "endDate": "May 2016",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Led product team of nine people to define & track product release sprint",
+        "Drove the development of multiple Internet-facing applications with high-impact features. High-valued customers were delighted to use such a sophisticated digital product with improved user experience thus increased revenue by 20%",
+        "Primarily responsible for all front-end deliveries for desktop & Mobile. Major Frameworks being used was — IBM MobileFirst & WAS",
+        "Led and helped the team with building a multi-platform digital hybrid application for iOS & Android. Also, I maintained the Jira dashboard that tracked product release & development progress"
+      ]
+    },
+    {
+      "company": "Tech Mahindra Private Limited, Bahadurpally, Hyderabad (Client: Verizon Data Services India)",
+      "position": "Technical Manager",
+      "website": "http://www.techmahindra.com/",
+      "startDate": "May 2013",
+      "endDate": "Aug 2014",
+      "summary": "",
+      "highlights": [
+        "Managed a team of 10 people (4 UI developers,2 testers,2 Python & 2 RoR developers)on client location and developed an application using Ruby on Rails, Python, jQuery & Bootstrap. Primarily responsible for front-end architecture and deliveries",
+        "Led project to integrate data from over-the-air devices to a web-based medical platform that connects physicians with patients",
+        "Built initial prototype & helped to define standards for UI Development"
+      ]
+    },
+    {
+      "company": "PayPal India Private Limited, Karapakkam, Chennai",
+      "position": "User Interface Engineer/Technical Lead",
+      "website": "http://www.paypal.com/",
+      "startDate": "Jul 2009",
+      "endDate": "Nov 2012",
+      "summary": "",
+      "highlights": [
+        "Led a massive effort to optimize PayPal homepages for SiteSpeed.This includes a total revamp of 35+ homepages and working with various vendors including Akamai (​Results Here​). This is to improve user experience & increase revenue while reducing server costs.",
+        "Built & launched a new internal tool to measure & monitor Web Performance geographically and rolled out usage across the development team. This is in collaboration with third-party vendors like Akamai, Gomez, and Keynote.",
+        "Launched internal tech-talk programs to evangelize new technologies on Web Development and built an attendance of 100+ developers on average",
+        "Actively participated in monthly internal architects meet program to document & define standards and guidelines for the web development community",
+        "Established and rolled out better development practices for the team to improve productivity and product quality by working with Web Development leads and other cross-functional members with a strong focus on Web Standards and Accessibility"
+      ]
+    },
+    {
+      "company": "Computer Science Corporation India Pvt. Ltd., MEPZ, Chennai",
+      "position": "Associate Projects / Technical Lead",
+      "website": "http://www.csc.com/",
+      "startDate": "Aug 2008",
+      "endDate": "Jun 2009",
+      "summary": "",
+      "highlights": [
+        "Proposed & led Web Development projects focusing on improving response time(40% increase) on pages & improving usability and UI consistency of 6000+ pages for www.paypal.com",
+        "Implemented refactoring projects on CSS(500+) & JS(200+) codebase",
+        "Held complete responsibilities of projects delivered off shore from the initial to the final Go Live (production)",
+        "Closely worked with the design team to create, analyze and review design specification documents & estimate the web development requirements and establish a project plan for the same",
+        "Led the projects by closely working with various cross-functional teams such as back-end development team and QA team & contributed in release meetings to push the spec/feature on live during “Go-Live” cycle",
+        "Participated & organized User research projects for collecting customer feedback to improve user experience"
+      ]
+    },
+    {
+      "company": "Covansys India Pvt. Ltd., MEPZ, Chennai",
+      "position": "Associate Projects / Web Developer​",
+      "website": "http://www.covansys.com/",
+      "startDate": "Jul 2006",
+      "endDate": "Aug 2008",
+      "summary": "",
+      "highlights": [
+        "Led a project to re-design the entire PayPal website and developed a new data-driven approach, which resulted in more signups and better user experience.",
+        "Led a team of 12 Web Developers exclusively working on projects based on Consumer Experiences and Consumer Products.",
+        "Closely worked with the product managers and leads to estimate the requirements and establish a project plan for the same."
+      ]
+    },
+    {
+      "company": "Xerago E-Biz India Pvt. Ltd., Kilpauk, Chennai",
+      "position": "Web Developer",
+      "website": "http://www.xerago.com/",
+      "startDate": "Aug 2005",
+      "endDate": "Jun 2006",
+      "summary": "",
+      "highlights": [
+        "Lead a team of four on developing table-less layouts using pure HTML and CSS",
+        "Held requirement gathering meetings with client & business analysts and drove the creation of product templates & digital assets; clients include CitiBank, Globus.",
+        "Coordinated with multiple vendors to define a strategy for the digital assets creation."
+      ]
+    },
+    {
+      "company": "Protechsoft Systems Pvt. Ltd., Besant Nagar, Chennai",
+      "position": "Web Developer",
+      "website": "http://www.protechsoft.com/",
+      "startDate": "Aug 2004",
+      "endDate": "Jul 2005",
+      "summary": "",
+      "highlights": [
+        "Lead developer for projects like the US—Child Support System & CMS based sites",
+        "Designed templates & corporate brochures using Vector Graphic Imaging tools",
+        "Created digital assets for corporate presentations and product demos using Flash"
+      ]
+    },
+    {
+      "company": "Sify India Pvt. Ltd., Tidel Park, Chennai",
+      "position": "Web Designer / Developer",
+      "website": "http://www.sify.com/",
+      "startDate": "Aug 2002",
+      "endDate": "Feb 2004",
+      "summary": "",
+      "highlights": [
+        "Held meetings for interaction and handling of customer queries via email support.",
+        "Generating MIS reports and Site activity reports for all the portals weekly.",
+        "Responsible for generation of dynamic webpages for all customers registered for e-Market Services (Seekandsource.com, SatyamPlastics.com, and Apnawebsite.com)"
       ]
     }
   ],
-  "volunteer": [
+  /*"volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -149,25 +241,25 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ],*/
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Technology Leader Award",
+      "date": "2009",
+      "awarder": "PayPal India Pvt Ltd",
+      "summary": "One among 12 technology leaders for the year 2009"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Super Star Award",
+      "date": "2008",
+      "awarder": "Covansys India",
+      "summary": "for successful completion of the Site-wide redesign project."
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  //"references": [
+    //{
+      //"name": "Available upon request",
+      //"reference": ""
+    //}
+  //]
 }
