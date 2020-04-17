@@ -5,7 +5,7 @@
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "rguruprasath@gmail.com",
     "website": "https://prasathragavan.github.io",
-    "summary": "In addition to good management skills, over 16 years of hands-on experience with various environments. Possess good working knowledge in eCommerce and Online Payments. A Strong believer of ‘Innovation’. A conscientious person who pays attention to details. Passionate and focused on iterating the best ideas to build engaging products.\nCurrently pursuing a certificate program in - “​Product Management​” from Duke CE/UpGrad.",
+    "summary": "In addition to good management skills, over 16 years of hands-on experience with various environments. Possess good working knowledge in eCommerce and Online Payments. A Strong believer of ‘Innovation’. A conscientious person who pays attention to details. Passionate and focused on iterating the best ideas to build engaging products. <br><br>\nCurrently pursuing a certificate program in - “​Product Management​” from Duke CE/UpGrad.",
     "phone": "98407-44159",
     "location": {
       "address": "",
@@ -17,18 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "prasathragavan",
+        "url": "http://github.com/prasathragavan"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "prasathragavan",
+        "url": "http://linkedin.com/in/prasathragavan"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "prasath",
+        "url": "http://twitter.com/prasath"
       },
       {
         "network": "instagram",
@@ -81,12 +81,19 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "University of Madras",
+      "area": "Bachelors of Electronic Science (B.E.S)",
+      "studyType": "B.E.S",
       "startDate": "2013-09-01",
-      "endDate": "Present",
+      "endDate": "March 2002",
       "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "New Prince Matriculation Higher Secondary School",
+      "area": "Higher Secondary Education (H.S.C)",
+      "studyType": "H.S.C",
+      "endDate": "April 1999",
       "courses": []
     }
   ],
