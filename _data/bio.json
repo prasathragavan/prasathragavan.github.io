@@ -69,7 +69,7 @@
       "area": "Bachelors of Electronic Science (B.E.S)",
       "studyType": "B.E.S",
       "startDate": "2013-09-01",
-      "endDate": "Mar 2002",
+      "endDate": "2002-03-30",
       "gpa": "",
       "courses": []
     },
@@ -77,14 +77,14 @@
       "institution": "New Prince Matriculation Higher Secondary School",
       "area": "Higher Secondary Education (H.S.C)",
       "studyType": "H.S.C",
-      "endDate": "Apr 1999",
+      "endDate": "1999-04-30",
       "courses": []
     },
     {
       "institution": "Bharathi Matriculation Higher Secondary School",
       "area": "Secondary School Leaving Certificate",
       "studyType": "S.S.L.C",
-      "endDate": "Mar 1997",
+      "endDate": "1997-03-30",
       "courses": []
     }
   ],
