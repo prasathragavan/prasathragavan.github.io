@@ -77,6 +77,7 @@
       "institution": "New Prince Matriculation Higher Secondary School",
       "area": "Higher Secondary Education (H.S.C)",
       "studyType": "H.S.C",
+      "startDate": "Jun 1998",
       "endDate": "Apr 1999",
       "courses": []
     },
@@ -84,6 +85,7 @@
       "institution": "Bharathi Matriculation Higher Secondary School",
       "area": "Secondary School Leaving Certificate",
       "studyType": "S.S.L.C",
+      "startDate": "Jun 1996",
       "endDate": "Mar 1997",
       "courses": []
     }
