@@ -5,7 +5,7 @@
     "picture": "https://media-exp1.licdn.com/dms/image/C5103AQGUUFGXqgZJEQ/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=tC_DIPQABoqVSAxiwvoNOYcj49qw1oGRRRSJwqOw1vM",
     "email": "rguruprasath@gmail.com",
     "website": "https://prasathragavan.github.io",
-    "summary": "In addition to good management skills, over 16 years of hands-on experience with various environments. Possess good working knowledge in eCommerce and Online Payments. A Strong believer of ‘Innovation’. A conscientious person who pays attention to details. Passionate and focused on iterating the best ideas to build engaging products. <br><br>\nCurrently pursuing a certificate program in - “​Product Management​” from Duke CE/UpGrad.",
+    "summary": "In addition to good management skills, over 16 years of hands-on experience with various environments. Possess good working knowledge in eCommerce and Online Payments. A Strong believer of ‘Innovation’. A conscientious person who pays attention to details. Passionate and focused on iterating the best ideas to build engaging products. <br><br>\nCompleted certificate program in - “​Product Management​” from Duke CE/UpGrad[Nov 19 - May 20].",
     "phone": "+91 98407 44159",
     "location": {
       "address": "",
@@ -64,6 +64,15 @@
     }
   ],
   "education": [
+    {
+      "institution": "Duke CE/UpGrad India",
+      "area": "Product Management",
+      "studyType": "Product Management Certification Program",
+      "startDate": "Nov 2019",
+      "endDate": "May 2020",
+      "gpa": "89%",
+      "courses": []
+    },
     {
       "institution": "University of Madras",
       "area": "Bachelors of Electronic Science (B.E.S)",
