@@ -1,11 +1,10 @@
 ---
 layout: project
 type: project
-# image: images/micromouse.jpg
-title: User Research - Survey
-permalink: projects/micromouse
+title: Conducting Survey
+projecturl: Survey_submission_file.docx-2.pdf
 # All dates must be YYYY-MM-DD format!
 # date: 2015-07-01
 # labels
-summary: A survey to understand user needs/demands in the furniture rental space.
+summary: Conduct survey on Furniture Rental space.
 ---

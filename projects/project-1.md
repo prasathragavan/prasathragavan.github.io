@@ -1,9 +1,7 @@
 ---
 layout: project
 type: project
-# image: images/micromouse.jpg
 title: Market Research and Competitive analysis
-# permalink: projects/micromouse
 projecturl: ca.pdf
 # All dates must be YYYY-MM-DD format!
 # date: 2015-07-01
